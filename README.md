@@ -3,8 +3,6 @@
 
 Deploy-Heroku-BasicSecurity -> https://cka-ta27-ex4.herokuapp.com
 
-Deploy-Heroku-JWT -> https://cka-ta27-ex4-jwt.herokuapp.com  
-
 ```
 Facultades
 GET       /api/facultades
