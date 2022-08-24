@@ -1,8 +1,6 @@
 # TA27-SpringREST-JWT-Ex4
 ### URIs endpoints: 
 
-Deploy-Heroku-BasicSecurity -> https://cka-ta27-ex4.herokuapp.com
-
 Deploy-Heroku-JWT -> https://cka-ta27-ex4-jwt.herokuapp.com  
 
 ```
