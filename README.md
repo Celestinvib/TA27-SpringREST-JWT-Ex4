@@ -1,7 +1,7 @@
 # TA27-SpringREST-JWT-Ex4
 ### URIs endpoints: 
 
-Deploy-Heroku-JWT -> https://cka-ta27-ex4-jwt.herokuapp.com  
+Deploy-Heroku-JWT -> https://cka-ta27-ex4jwt.herokuapp.com  
 
 ```
 Facultades
