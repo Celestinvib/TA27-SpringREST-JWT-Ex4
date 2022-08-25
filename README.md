@@ -3,7 +3,7 @@
 
 Deploy-Heroku-BasicSecurity -> https://cka-ta27-ex4.herokuapp.com
 
-Deploy-Heroku-JWT -> https://cka-ta27-ex4-jwt.herokuapp.com  
+Deploy-Heroku-JWT -> https://cka-ta27-ex4jwt.herokuapp.com  
 
 ```
 Facultades
@@ -34,3 +34,5 @@ GET       /api/reservas/{id}
 PUT       /api/reservas/{id}
 DELETE    /api/reservas/{id}
 ```
+
+![Spring2](https://user-images.githubusercontent.com/55434881/186718931-2024b357-6b4b-4545-9c58-9d68339c032f.JPG)
